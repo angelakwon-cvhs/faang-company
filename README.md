@@ -16,5 +16,7 @@ You must know how to set up a git repo, what remote/local is, git v. github, and
 - How to deal with Git stress when things go wrong and the error message is scary (e.g. reverting back to the right state)
 
 ## Advanced Topics
+- Running a linter and other code style requirements (make file)
+- CI/CD
 - Rebasing
-- Cherry picking
+
