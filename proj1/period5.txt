@@ -1,7 +1,1 @@
-//
-The final period doc should look like this
-0 0
-1 1
-2 2
-# each line will be from a single team. If you have more than 2 people, you should have additional copies of that number, separated by a space
-//
+0
