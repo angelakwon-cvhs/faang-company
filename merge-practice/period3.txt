@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 4 4 repeat1 repeat2
 
 3
+=======
+2 2
+3
+4 4
+>>>>>>> 8e1b55dc1ae59b058dd93cb83dbdcd27ef192675
